@@ -14,7 +14,7 @@ It implements basic functionality for exporting and importing uncompressed 24-bi
 ### Completed
 - BMP file export with configurable dimensions and pixel data  
 - BMP file parsing and in-memory representation via `Image`  
-- Example driver demonstrating usage of the BMP routines
+![image](image.bmp)
 
 ### Not Yet Implemented
 - Image manipulation tools (filters, transformations, etc.)  
